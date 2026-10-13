@@ -1,9 +1,9 @@
 {
   "version": "0.2.0",
   "archivo": "versiones/XUXU-0.2.0.exe",
-  "sha256": "87f01ace569508f0b9ffa7c116e5104d45ca8e5e6c1a9b353de40b4db72d472c",
-  "firma": "9acebdeb06a666cbaa4497619607c0266c20f7782158ce3b14e9e0e865eca423431e0adfa46c7fbc31c0383690cf0d74c90accc9362c6aef3c9e5be02f8a2306a3769b99305776c9484e22cc88e414a95bed244ae8cc5eb7ead42e356720ee87e25319353f98b57448dfc386e638d67fe70b02308228e8281af56b696fa4f35beebd7d594a02a3dbb9e600e6da2133c102b9742634bd753c8ff1c105eaa1c66434eacbaebb7ebd7c7d51ca09b05f370789570f705a3e79c9dd9950eb6642b9c715d7df6eddd479d021f500b261a8880520cdb7bf85585b27f148edad6a80daa2bd30903dd43003507613620972b880ecc2e9932482e53c6075cd29f0673f2061",
-  "tam": 8947712,
+  "sha256": "7f89fd4c9a93ba887a0ff4a0e4c51126d2deb1df565e2e6181dfa210ea1c717b",
+  "firma": "bcbfd808d81980f2aa459da76431774d5a2339b24afd6210fece8e3186c579241e3c24fb7e1f12bc7a26fad847519ace4639ed76bdbcefcdfc4a5868d8afaf4b2ac120f5dc860241f334b495c36ad38db007d32f7f42e6cf43ca25feadd3e5543650bd799ecc6ee62f9dec70bab33e0a26e6699eaf669be980edb4ef51b9e709c9a457a7b857e41d7c7fc90bc8350980065568c9d5d15f24d8bc0aaa233afa9502597f77e4b31cf2945cf934e65233a160b9d633a200132775573aa104fb2f67c9ead3ebc628805be180bb101679c0c9656f375ca5d56cce44ae2a2b82bf1dcf38a9990d33c3a82c0b55c75b9245776b82fd18a55fb58eef729ab6274f9bc7d",
+  "tam": 8950784,
   "fecha": "2026-10-13",
   "notas": "## XUXU 0.2.0 🔄\n**Desde esta versión XUXU se actualiza solo.** Al abrirlo te avisa si hay versión nueva, te enseña lo que cambió y te pregunta. Ésta es la última que bajas a mano.\n\n**Copiar y pegar como Ableton**\n- Si seleccionas un pedazo de un clip y copias, se copia sólo ese pedazo (con sus huecos).\n- La rayita azul que parpadea es donde cae el Ctrl+V. Lo pegado queda seleccionado y otro Ctrl+V lo pone detrás.\n- Ctrl+D pone la copia justo después; repítelo y se encadenan.\n- Ctrl+C / Ctrl+V van a donde picaste por última vez (arreglo o piano roll).\n- Los clips MIDI pegados o divididos ya son clips de verdad (antes se amarraban al original).\n\n**Consolidar (Ctrl+J)**\n- Junta lo seleccionado en un solo clip, en MIDI y en audio. En audio graba lo que suena a un archivo nuevo.\n\n**Clips MIDI**\n- Se estiran por los dos lados sin tope, y varios a la vez.\n- En el piano roll se puede dibujar después del final del clip: el clip crece solo.\n- Banderita en la regla del piano roll para cambiar dónde acaba el clip.\n\n**Otros**\n- Seleccionar un pedazo de un clip ya no oscurece el resto.\n- La B cambia entre lápiz y flecha en el piano roll."
 }
