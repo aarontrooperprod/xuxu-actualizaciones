@@ -1,9 +1,9 @@
 {
-  "version": "0.3.2",
-  "archivo": "versiones/XUXU-0.3.2.exe",
-  "sha256": "23e669b3fed44376899951085fd4e8efad080b01c875375cb30074c175ad83a6",
-  "firma": "7749dbe85d26a6cdf8079a477cc181b5b20ce20940bef244976c968629c140eb3792e7ee3c5d484990240549feb07ee906a2e9641d75dc7708d74bdf06d6dcf357479c83bc9b52afa1558e8ca0ca5e41c0fae8238dd163a414b16f3c4c26d96edf1035c7e6c1e8f299c5d9cff59ea19fa9188b467b8ab0a4a7c9ca274e9c99c1d2b3752ad8c42947e1c13742619b5adfb02805249ce8f5d4b4020038be942b9c867071ec336e14c616021859e0098c0a63904063cf31b0c98e39336dfca8c9563c30085572c711374d919b9aaad3c28e352823ff37c08fb1c2f0d204a3c0857eee3ce2a06036e0a0f7a4850bba14b84e68b1d233386d0c3f4c7fc5cd7307b09e",
-  "tam": 10249216,
-  "fecha": "2026-10-14",
-  "notas": "## XUXU 0.3.2 🔄\n**Nuevo**\n- **Opciones → Buscar actualizaciones…** revisa al momento. Si hay una nueva, la instala y XUXU se vuelve a abrir solo (antes te pregunta si guardas)."
+  "version": "0.3.3",
+  "archivo": "versiones/XUXU-0.3.3.exe",
+  "sha256": "0367470a133799a2cb2d737c7eb676556129c187adb6f6440962332a98edc7e9",
+  "firma": "3ac5114241b4a64ae9eaa5c9c727a425bfa18d75f970a1c02461ab1ca955ae478e9e8c3735d71542fea75b0f059b07dc0d76bc204077ea4b4449a7bb3186cb6bbf13cac4f6b36e4842a5fe163ad2dd4c368ac281d9f1f4053e393cf9eec5bcf7ce972eae727cb3ef2677cf09502dc489e4123812e8e6cb8b766b0ccfcc01aa32c09336a4967daeed6f45f5026b24e64eda926ebed2d92283185c0bb11b39403ff3a1d353b57daa5b01d2f7617a58f2df04d576113f7257a7ba89d58e1deb2fed391ef7bbb288bd75944a40a97e663c5b7e5768125b2a8a890ad4c399f5ab1039a85c4f0b005f3dd27530a6bb8b83f884c90c6adf79216f57ad7ca35a9d258a3a",
+  "tam": 10463744,
+  "fecha": "2026-10-15",
+  "notas": "## XUXU 0.3.3 🎹\n**Piano roll nuevo: el de FL Studio**\n- Se ve y se usa como el de FL: sus herramientas con su letra (P, B, D, T, C, E…), las teclas de piano y el velocity abajo.\n- Doble clic en una nota: sus propiedades.\n- Menú Tools: Quantize, Chop, Arpeggiate, Strum, Flam, Riff machine, Chord progression y más.\n- Stamp de acordes, 16 colores de nota (cada uno es un canal MIDI) y notas fantasma.\n\n**Opciones → Acerca de XUXU:** tu versión y su fecha."
 }
