@@ -1,9 +1,9 @@
 {
-  "version": "0.3.1",
-  "archivo": "versiones/XUXU-0.3.1.exe",
-  "sha256": "d5faf92cb8c24c93534e8746bc5d25cb60d96ad58a088414928a347029ac0dc5",
-  "firma": "36455c5c7204055d9458f057c7abd1258a41ebec5772a5cf881b5d7fcff513986fa41459b2617dbd13e7264bc1f0dde2816f73e62d29cc8d4b5a32148f6375a52a8553ca4273a3561c0cee3dfe70a155f12e86106a4bd8547f0649c878750a96bb0d966a08953f0279095f0285e690c70a0d414e750bd442507d026c3578b5d3df7201405add88d39c3aa265c4f982269c584393021fdedb501d534570b0c9229f76298e998e1d803d6a2caa54ac59e91a41ba73a6428859bfc463678d4b2f980c80cc6036d9764286d2b7cd6626ce75b877d87a3a20c4f3010ae03e6218f22c87bb9fe68e2c8cf2ca02c7acd5276aaaee3c2209efa087e0b43e1a2b7bc3f0cd",
-  "tam": 10244096,
+  "version": "0.3.2",
+  "archivo": "versiones/XUXU-0.3.2.exe",
+  "sha256": "23e669b3fed44376899951085fd4e8efad080b01c875375cb30074c175ad83a6",
+  "firma": "7749dbe85d26a6cdf8079a477cc181b5b20ce20940bef244976c968629c140eb3792e7ee3c5d484990240549feb07ee906a2e9641d75dc7708d74bdf06d6dcf357479c83bc9b52afa1558e8ca0ca5e41c0fae8238dd163a414b16f3c4c26d96edf1035c7e6c1e8f299c5d9cff59ea19fa9188b467b8ab0a4a7c9ca274e9c99c1d2b3752ad8c42947e1c13742619b5adfb02805249ce8f5d4b4020038be942b9c867071ec336e14c616021859e0098c0a63904063cf31b0c98e39336dfca8c9563c30085572c711374d919b9aaad3c28e352823ff37c08fb1c2f0d204a3c0857eee3ce2a06036e0a0f7a4850bba14b84e68b1d233386d0c3f4c7fc5cd7307b09e",
+  "tam": 10249216,
   "fecha": "2026-10-14",
-  "notas": "## XUXU 0.3.1 🔧\n**Arreglos**\n- **Doble clic en la biblioteca** ya pone el plugin en la pista elegida (en la 0.3.0 no hacía nada).\n- **Metrónomo apagado:** ya no suena un click cada vez que le das pausa."
+  "notas": "## XUXU 0.3.2 🔄\n**Nuevo**\n- **Opciones → Buscar actualizaciones…** revisa al momento. Si hay una nueva, la instala y XUXU se vuelve a abrir solo (antes te pregunta si guardas)."
 }
