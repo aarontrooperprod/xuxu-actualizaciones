@@ -1,9 +1,9 @@
 {
-  "version": "0.3.6",
-  "archivo": "versiones/XUXU-0.3.6.exe",
-  "sha256": "4c4ea52f7ebb75cb35816c1dd0cc76b977f678bdb956c3c60d3bdf13544208e4",
-  "firma": "6b0adf0b6fa665707e938b1db44ef1e4e04d14892d5a8cd42428161363ccc445283b78c0685af575b6d28272624ff53dec417ca3e21a9f8c857f7b39794ba9814aac6fd58216264c7c5a1b782f5bc76cd2f2378ff805f93e2646aa5dc52253ac24642e2da28c369093c46bf063c2924ed1bd9ad2edb1b3298769f9c67255a2e763c501604a09e817184f1428150aa2c554c1252b549e6b1730b2a841e418a28e4d5b1cb38f54190f5ab11cbdd127aa1472fefba461c03bdae49874ff327eca8f141cbcbdb008db64410234b9a6f04820a98fbfebb253547b348983526ba9c59cb0b140158c683808cc77d24088667f5731ce5f1dda99c345aca9e7bd65b8af14",
-  "tam": 10482688,
+  "version": "0.3.7",
+  "archivo": "versiones/XUXU-0.3.7.exe",
+  "sha256": "ff59079d373e8dfabc9f46094b12f82730a44a823ccd0b941d0a06675b41b7c1",
+  "firma": "15654bb40c10ab3bd6bf5095edfc2597b6353d4edc7d784984a7f87db1de02aa07191b9c23961db076a74d4274475d58e3830966e7a67dda8f77146ca8e1ef44b7c82553a19f54ced604fa1beec6e17fc10a7ce06b3299f1de2a1ced268d4376a323e2c6ce99fd58fa473d5bdfab579d00c870559fd0fab55577d747a7b19a8611802c9e0326e21b35460531f98563f7fb1394669c502b03d62ed248232f74864cc5243283dc565f1f87ea25e75cc1486d1d681c1d8f9db7c12263dbedc3ffca4b77f039bb56541f0111b299d2c2a04bea51a88879ff95bd82e7d3293342467249f59f887e81365259ae875589322703e76e84b308e7d4c5e205daf76af7387f",
+  "tam": 10489344,
   "fecha": "2026-10-15",
-  "notas": "## XUXU 0.3.6 ↔️\n**Arreglo**\n- **Espacio a la derecha:** la línea de tiempo ya no se acaba en tu pista más larga. Aleja el zoom o sigue hacia la derecha y siempre hay lugar, como en Ableton y FL."
+  "notas": "## XUXU 0.3.7 🎨\n**Arreglo**\n- **Color por clip:** clic derecho en un clip y escoges su color. «Color de la pista» lo regresa.\n- **F2 renombra:** con la pista elegida, F2 le cambia el nombre (igual que Ctrl+R)."
 }
