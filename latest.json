@@ -1,9 +1,9 @@
 {
-  "version": "0.3.4",
-  "archivo": "versiones/XUXU-0.3.4.exe",
-  "sha256": "4d2409345d4fc4790d4d8e08e78dce9657e5a9c6f8343741ffdb505f5a0643e2",
-  "firma": "37c512469c42e1b44066969eef6a5fe1d449da64c81b5cdb028360c6d823c4d86e64533836460b207569ef4e81874c26a5a58179872c56a73bc6d3b561371c573aac38c8d16573ae51866ef48f2434352f837498f4c6243afc2bd1a6ada97225709255f34ebba8d176865069064aa3fdab654369d413a09d7a00a6eaf7849b8058a5c1f868c2f12a75a7f0162133cf146ed10a8d9469a10b2b98fe54f31dd9bc6bcffa92b8eff6fcd7b3b3cb0348b3ea56fb374dd246ceb0a69c58ebba2d4586eef1c622c529e7e0bc0c4142a19ba82dbb87de3559b7900cae3df83a9899647f592157ab6905654c59d2f03e5bd486cb6582b7629bd480bd592d51a394a9024a",
-  "tam": 10464256,
+  "version": "0.3.5",
+  "archivo": "versiones/XUXU-0.3.5.exe",
+  "sha256": "0ad7b2dec47f193e46ddcbf16c569634275ca864088882abb240271f90fec6f1",
+  "firma": "50ecc46e100872f0788b68e7cbf8733be32a249e1607e1d3d64fa6cb58823eb515ab2eb20785fcf0f685bd6e1a699aafd3917833da4a280413363552fd9f75b063d6db86c0e10a079eb34daa8f31a6759fc894aa0cf26e9929325a12075b1b100c12665d42abd47764e88a3b04317fd7a109a96435f0594181f34b94fd741502c710565feaadb0778e7e3323bf73ac91c55eac28b44391ee6753d9b91f1dc11d7b2753a0683f591acbd5e1dc21afe8ef4a351f862eec11b21aac6b23581c4998b5f7b2a5fced150d59409b1c273db55df99f348ebbf32d858d14f552ccfa95bbf7c58a93e71ff80803ae4748c2fd5337412cb490f5b707376045b8784c7b26a2",
+  "tam": 10480640,
   "fecha": "2026-10-15",
-  "notas": "## XUXU 0.3.4 🔧\n**Arreglo**\n- **Solo y mute al abrir un proyecto:** ahora se ven prendidos como los dejaste (antes la pista sonaba en solo pero el botón salía apagado)."
+  "notas": "## XUXU 0.3.5 🪟\n**El piano roll, como en FL**\n- **Flotante:** el botón nuevo arriba a la derecha lo deja flotando dentro de XUXU; lo mueves y lo estiras.\n- **Detached:** para otra pantalla, ahora en una ventana de XUXU (ya no sale como otro programa en la barra de Windows)."
 }
