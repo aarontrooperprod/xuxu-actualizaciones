@@ -4,32 +4,47 @@ El DAW de Aaron, para grabar.
 
 ## Descargar
 
-**[Bajar XUXU 0.2.0](https://github.com/aarontrooperprod/xuxu-actualizaciones/raw/main/XUXU.zip)** (Windows 10 y 11 de 64 bits, 3.6 MB)
+**[Bajar XUXU 0.3.0](https://github.com/aarontrooperprod/xuxu-actualizaciones/raw/main/XUXU.zip)** (Windows 10 y 11 de 64 bits, 4.1 MB)
 
 1. Descomprime el zip en una carpeta tuya (por ejemplo `Documentos\XUXU`), no en Archivos de programa.
 2. Abre `XUXU.exe`. Si Windows dice «Windows protegió tu PC», picas **Más información** y luego **Ejecutar de todas formas**.
 3. De aquí en adelante XUXU se actualiza solo: al abrir te avisa si hay versión nueva y te pregunta.
 
-## Lo nuevo en 0.2.0
+## Lo nuevo en 0.3.0
 
-## XUXU 0.2.0 🔄
-**Desde esta versión XUXU se actualiza solo.** Al abrirlo te avisa si hay versión nueva, te enseña lo que cambió y te pregunta. Ésta es la última que bajas a mano.
+## XUXU 0.3.0 🎛️
+**Al abrir:** pantalla de inicio con tus proyectos en cuadritos (con su foto), tus plantillas y Nuevo. Se apaga en Preferencias → Pantalla.
 
-**Copiar y pegar como Ableton**
-- Si seleccionas un pedazo de un clip y copias, se copia sólo ese pedazo (con sus huecos).
-- La rayita azul que parpadea es donde cae el Ctrl+V. Lo pegado queda seleccionado y otro Ctrl+V lo pone detrás.
-- Ctrl+D pone la copia justo después; repítelo y se encadenan.
-- Ctrl+C / Ctrl+V van a donde picaste por última vez (arreglo o piano roll).
-- Los clips MIDI pegados o divididos ya son clips de verdad (antes se amarraban al original).
+**Grabar**
+- Pre-roll y punch de verdad (también al vuelo).
+- **Num +** mientras cantas marca la toma buena con estrella.
+- La **I** de la pista: te oyes por XUXU (nace en Auto).
+- El afinador y el metrónomo ya funcionan de verdad (sonido, ritmo, «Sólo al grabar»).
 
-**Consolidar (Ctrl+J)**
-- Junta lo seleccionado en un solo clip, en MIDI y en audio. En audio graba lo que suena a un archivo nuevo.
+**Plugins**
+- **EQ y Compresor de XUXU.** El compresor enseña cuánto comprime y su threshold se jala con el mouse.
+- Los de XUXU traen todos sus controles en la vista de dispositivos.
+- Plugins de otros: sus 8 perillas en la tarjeta y el botón **Skin** para usar el plugin ahí mismo.
+- Jala el borde de arriba de la vista de dispositivos para hacerla más grande.
+- **Ctrl+Z dentro de Vovious o Melodyne** deshace lo de ahí y ya no te quita el plugin. Las perillas de cualquier plugin se deshacen.
+- **Doble clic** en la biblioteca: el efecto va al final de la pista elegida; un instrumento te pregunta antes de sustituir el que había; sin pista elegida crea una (pica el hueco de abajo de las pistas para no elegir ninguna).
 
-**Clips MIDI**
-- Se estiran por los dos lados sin tope, y varios a la vez.
-- En el piano roll se puede dibujar después del final del clip: el clip crece solo.
-- Banderita en la regla del piano roll para cambiar dónde acaba el clip.
+**Audio**
+- **Tiempo y tono** en los clips: estirar al tempo y transponer.
+- Los fades suenan como se ven (Suave, Simple, Tape stop).
 
-**Otros**
-- Seleccionar un pedazo de un clip ya no oscurece el resto.
-- La B cambia entre lápiz y flecha en el piano roll.
+**Exportar**
+- MP3, FLAC y AIFF; normalizar, mono, dither y todas las pistas de una.
+
+**MIDI**
+- Se graban el pedal, los CC, el pitch bend y el aftertouch.
+
+**Proyectos**
+- **Archivo → Compartir proyecto…** arma un zip con todo y te dice qué plugins necesita tu amigo.
+- Plantillas de proyecto.
+- XUXU en **inglés** (Preferencias → Pantalla).
+
+**Pistas**
+- Plegadas en un renglón con su medidor; «Agregar pista» justo abajo de la última.
+
+Y un montón de arreglos para que no truene ni pierda trabajo.
