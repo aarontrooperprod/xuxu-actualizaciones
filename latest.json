@@ -1,9 +1,9 @@
 {
-  "version": "0.3.5",
-  "archivo": "versiones/XUXU-0.3.5.exe",
-  "sha256": "0ad7b2dec47f193e46ddcbf16c569634275ca864088882abb240271f90fec6f1",
-  "firma": "50ecc46e100872f0788b68e7cbf8733be32a249e1607e1d3d64fa6cb58823eb515ab2eb20785fcf0f685bd6e1a699aafd3917833da4a280413363552fd9f75b063d6db86c0e10a079eb34daa8f31a6759fc894aa0cf26e9929325a12075b1b100c12665d42abd47764e88a3b04317fd7a109a96435f0594181f34b94fd741502c710565feaadb0778e7e3323bf73ac91c55eac28b44391ee6753d9b91f1dc11d7b2753a0683f591acbd5e1dc21afe8ef4a351f862eec11b21aac6b23581c4998b5f7b2a5fced150d59409b1c273db55df99f348ebbf32d858d14f552ccfa95bbf7c58a93e71ff80803ae4748c2fd5337412cb490f5b707376045b8784c7b26a2",
-  "tam": 10480640,
+  "version": "0.3.6",
+  "archivo": "versiones/XUXU-0.3.6.exe",
+  "sha256": "4c4ea52f7ebb75cb35816c1dd0cc76b977f678bdb956c3c60d3bdf13544208e4",
+  "firma": "6b0adf0b6fa665707e938b1db44ef1e4e04d14892d5a8cd42428161363ccc445283b78c0685af575b6d28272624ff53dec417ca3e21a9f8c857f7b39794ba9814aac6fd58216264c7c5a1b782f5bc76cd2f2378ff805f93e2646aa5dc52253ac24642e2da28c369093c46bf063c2924ed1bd9ad2edb1b3298769f9c67255a2e763c501604a09e817184f1428150aa2c554c1252b549e6b1730b2a841e418a28e4d5b1cb38f54190f5ab11cbdd127aa1472fefba461c03bdae49874ff327eca8f141cbcbdb008db64410234b9a6f04820a98fbfebb253547b348983526ba9c59cb0b140158c683808cc77d24088667f5731ce5f1dda99c345aca9e7bd65b8af14",
+  "tam": 10482688,
   "fecha": "2026-10-15",
-  "notas": "## XUXU 0.3.5 🪟\n**El piano roll, como en FL**\n- **Flotante:** el botón nuevo arriba a la derecha lo deja flotando dentro de XUXU; lo mueves y lo estiras.\n- **Detached:** para otra pantalla, ahora en una ventana de XUXU (ya no sale como otro programa en la barra de Windows)."
+  "notas": "## XUXU 0.3.6 ↔️\n**Arreglo**\n- **Espacio a la derecha:** la línea de tiempo ya no se acaba en tu pista más larga. Aleja el zoom o sigue hacia la derecha y siempre hay lugar, como en Ableton y FL."
 }
