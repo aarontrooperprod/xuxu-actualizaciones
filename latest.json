@@ -1,9 +1,9 @@
 {
-  "version": "0.3.8",
-  "archivo": "versiones/XUXU-0.3.8.exe",
-  "sha256": "aed8458957e14d413c5b3088e7dac0cd2c982c6cd0360a760a0118739a1f0416",
-  "firma": "4c1dcf82beba7863939712d927e17cc9d9a23ffc1a6eb3e96367cd2f0bb9344e8ae5a7def5edc1a25ef068966d0cf75a7bfe7fc13f5de4253e234c523e05ce34c4899e05d380fa63eb936c07ba3033875577ef83802d846a9e67e3f0f4a52a3197f01b1ba34d29315058553010c25ae27bc52e8fa91230b8501fb9e46644cd27977f41e70f7f7d6af0a245bf5a1c1530404b3637a7fd00d315842eea393c53d0fe07b3ef076d9b8216ce9f9e95829ce9b2f0e5177f80f2f17fffb4a813ff8d724083d8ab858cf20a0f5242645033b038f0a5fb5cf3f21e605b00326a08d72702ca1239837cd503b4cae085215084e270d704c89fa68df37a9f1f237dcb5f5d26",
-  "tam": 10499072,
+  "version": "0.3.9",
+  "archivo": "versiones/XUXU-0.3.9.exe",
+  "sha256": "645a8a47d46142ee403b2a91d55023e0a71a527a38454c5f6ee045bc1f37c6a4",
+  "firma": "8628266801d954e6e70a9f058e7f788d81089adaf1343c6777fa83aab934687f25edd807632b76f44e77ac833db6fdf94c417a149f4806ebe14cda54556089c4a016b4ae98d1c52382af301564297e30fa1838072a60968887c2852650b1fbb7fe9265c4faa19898378ef13268ec15bc2e75775c85718e260cccc8cc0524faecfb901e83ee99db0897732963b988406a397884765f247b2ba97374c42c43350ed471ef5e8cb0ffa437f4cb638edce6e2ec3718c39c8ffd2e87d82271a001aa7a173ff2bad454b88f0edd32d200de597d0a6ca5e25ad8ed2f525b729f095f41576aeb1e8332fe6c74d7899a7fa592700a24b2b1e5a22a29510b8e1eab9b43a7a8",
+  "tam": 10633728,
   "fecha": "2026-10-15",
-  "notas": "## XUXU 0.3.8 🎹\n**Vistas**\n- **Piano roll en pestaña:** Arreglo · Piano roll · Mezcla, como FL. Las pistas y la biblioteca siguen a un lado. F5, F7 y F9.\n\n**Pistas**\n- **Una sola «Audio»:** como Ableton. Con entrada 1+2 graba en estéreo.\n\n**Master**\n- **Estéreo / Mono:** dos medidores y un botón para oír la mezcla en mono.\n\n**Limpieza**\n- Sin la barra de abajo: el «?» está junto a los menús.\n- Si no suena nada, no se ven barritas."
+  "notas": "## XUXU 0.3.9 🎛️\n**Arreglo**\n- **Herramientas de FL:** arriba de las pistas: lápiz, brocha, borrar, callar, cuchillo, slip y escuchar. La flecha de siempre se queda (Esc).\n- **Ctrl + arrastrar** un clip lo duplica, como Ableton.\n- **Ctrl+E** con una selección corta el clip en sus orillas.\n- **Tecla 0:** calla o prende el clip.\n- **Crossfades** como Ableton: la unión no se mueve y se ajustan desde las puntas.\n- **Fades** más completos: el rombo dobla la curva y Supr borra el fade.\n- La barra con el nombre del clip, más alta.\n\n**Piano roll**\n- **Magic chord wizard** (Tools · Alt+H): acordes según la tonalidad, en seis estilos (K-pop, R&B, J-pop, City pop, 80s y Bolero).\n- Con los **colores de tu skin** y las notas del color del clip.\n- **Ctrl + arrastrar** una nota la duplica.\n- Arreglado lo que encontró Gabriel: la rejilla, los cursores, los acordes y el slice.\n- Ya no se quedan **notas pegadas**. Si algo sigue sonando, **Stop** lo calla.\n\n**Vistas**\n- Arreglo · Piano roll · Mezcla ahora con iconos.\n- La barra de arriba de la ventana, oscura."
 }
