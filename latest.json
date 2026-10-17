@@ -1,9 +1,9 @@
 {
-  "version": "0.3.11",
-  "archivo": "versiones/XUXU-0.3.11.exe",
-  "sha256": "eeb9b5ab15cbd2e6cf846631105f3af41552d29d535eae7a54c1ffc581e19a3f",
-  "firma": "6d4020cd5c7224551d73ea8fe56b2dfe926167be1dad672132351ddf8231e282688bf8268214660f577645036e103dcdd7e2de69b13802cc4384bebab982204415698ac1225728714e104ec4473ca930627e96f9ec6138930664f5d57ae593db6936e97afcedab562d712b6ef99c1dbc80b4bc91962693ecaa89eba444ef47ffdbe850b0d2373b48428509192180312df90629a5dd7bb6763049d6edac9b4a0292d14a9594c405433f00198c2a4ceb36950de0f5586523be28eafda58515c0ea96a26e41a4c6e9cc0f3a1d3ddb1b04370a51fa799ac734dd5f2fdadaaed5e4193c798308b11e2ddf8694f1373f04524623f42d7069cdb6113096c8a8f5ff5a60",
-  "tam": 10638848,
+  "version": "0.3.12",
+  "archivo": "versiones/XUXU-0.3.12.exe",
+  "sha256": "b7cdfcac76ed67a0654109b424f87d64fe8184f14cc2fd4e080e64b78bde36ef",
+  "firma": "47955158255cb2a004bb18264eafaf668dbbedac68cf2843545a194af7f3a19f53ab4cf1628f4b19088b05934098f11fc22dd0e45b902be88f68c26583394b415cdf095910c8575487c7a3ec834b843dc67c022bae76c8017aeac7b1c49852083e30da334e11cdb3eeae510b8794e577e22436a3fa33e04b2ba7760268afa6467ce11c848c6b6ec16c9ae57ee49e474cecb639b4ec3f283d82c1798e856be10a844a038d03abfe70d6acb8d7dc154955ee36bc41cd4109c6366f02c0ffd5c800b82c136b802383cdf807f6bba54eb67fed2fd4ea5466104fcf87815cb80c00a59e6cfde7efb98b469751907f28170e65a308b6e91c0881381347f3d6ba826428",
+  "tam": 11049472,
   "fecha": "2026-10-16",
-  "notas": "## XUXU 0.3.11 🔇\n**Mezcla**\n- Si un plugin truena su audio, **ya no se calla todo XUXU**: sólo esa pista, y te avisa cuál fue. Gracias, Gabriel."
+  "notas": "## XUXU 0.3.12 🎛️\n**Plugins de XUXU** (Biblioteca → carpeta XUXU, hasta arriba)\n- **DeEsser:** quita las eses molestas de la voz. Dos perillas: **Encontrar** y **Quitar**. En «Avanzado», cuatro modos y **Partir en dos pistas**.\n- **MultiMeter**, como el de Logic: espectro, goniómetro, picos y LUFS.\n\n**MicroMeters** (Ver → MicroMeters)\n- Medidores tipo MiniMeters dentro de XUXU: onda, estéreo, espectro, LUFS, VU y más. Se pegan arriba, abajo o a los lados, o van en su propia ventana.\n\n**Mezcla**\n- **Estéreo a la vista:** el Master y las pistas estéreo con dos líneas en el medidor, y los clips estéreo con dos ondas.\n- El **solo** se ve azul y ya no se queda sin funcionar.\n- El metrónomo prendido, en amarillo. Stop se ilumina cuando está parado.\n\n**Arreglo**\n- Importar audio encima de un clip lo recorta, como Ableton. Ctrl+Z lo regresa.\n\n**Plugins VST3**\n- **Tu propia carpeta:** Opciones → Carpetas de plug-ins… → Agregar carpeta.\n- **Rescan completo** vuelve a intentar los que no cargaron.\n\n**Otros**\n- En inglés, los nombres de las pistas cambian con el idioma (Pista 2 → Track 2).\n- La barra de título, oscura también en Windows 10."
 }
