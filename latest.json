@@ -1,9 +1,9 @@
 {
-  "version": "0.3.13",
-  "archivo": "versiones/XUXU-0.3.13.exe",
-  "sha256": "31ba93157e00a97c6916fedac1311a4209ec1798814e8dfc0040332d25786bba",
-  "firma": "45aff595947d23a93704446e22fbef001646bbf12dafbe41dfd60dc276d86c24c33d7cef890346e2938a6a2f365090af2c4312406161d114af9f239898cf9231b8ae15f4e1b8a12af6aab10b09baecce20ddf608584afeac8fff3848eae002060720211b68b5ea4262e785010513d0a0a778d47eb820d0f0b324315ce7c3dbedc06201047d8527c804018f7e07134f575e28a170c54fe8f85bbebafaa19f3864c052871b50eb2b213ca82de2dc376cfaabe64ca89beb675037eabe1e1887713300079ca2ab3211dd90a2220ba547e74c8e5a4317405f372e3e375ceef38817eefcecfc7f802a60b324180953ca126063f587ba9a7084f16b6b77b49f644334d2",
-  "tam": 11058688,
+  "version": "0.3.14",
+  "archivo": "versiones/XUXU-0.3.14.exe",
+  "sha256": "fccae431e8f4155d504c883b70b6d3968464e75afae5a933803d66e0e29f1237",
+  "firma": "73c3f172e169354f02681eb0d6faf414a4f735217e58f0a69e592902f5b36c53c25f0505e7fb27cd8ef1ceded8bed99ab69568f1498240fa18f058a72fd51caaabfdd0244d74ced852129ec1302bc52b4a3b6ad5d70f3ba041cb96618c2d02b70b197d73b334e89a8d9466a911304f43ef0f4b910f90d252b0e329b878ab2968306107999d691bbfa7e04b3e8b33028394832de8e0e34613907a9b650b851d0d45e549c3d504420d259ba2bfaa773cdc1edff0bb359f64e190606b71f2055d7e995633e868f22e019bb66252efcf62d17876b70b9e0508108095f0cac3239007d3ac689b522d4e4a1b62750a8cd73e3d9d66024ce08f0d6f79870b377308a8cb",
+  "tam": 11066880,
   "fecha": "2026-10-17",
-  "notas": "## XUXU 0.3.13 🎛️\n**DeEsser, rebuilt and simpler**\n- It now looks like Splits: the vocal in blue, the esses in orange.\n- **bright / dark** on the left finds the esses. The **S-Max / S-Min** lines on the waveform set how loud an ess can get (drag them).\n- **Vocal** and **Esses** faders, each with its own Solo.\n- Two optional steps on the side: **Ess EQ** (like Re-Esser: live spectrum, 7 filter types, Freq / Gain / Q per band) and **Compressor** (like the Waves DeEsser).\n\n**Tracks and mixer**\n- **Select several tracks and move them together:** volume, pan, mute, solo and arm.\n- **Shift+click** M, S or arm to apply it to every track in between. Ctrl+click goes one by one.\n- **Type a value:** click a control, type the number and press Enter. Or click the number you see.\n- Tracks inside a group no longer show the group's name on top.\n\n**Other**\n- The crash log (Documents\\XUXU\\xuxu.log) is now in English."
+  "notas": "## XUXU 0.3.14 🛟\n**Vovious and Melodyne**\n- **Splitting a clip no longer wipes your Vovious or Melodyne edits.** Before, each piece started from scratch and the edits could vanish when you reopened the project. Thanks, Gabriel.\n\n**Your work is safer**\n- Every time you save, the previous version goes to a **Backup** folder inside the project (the last 10), like Ableton.\n- \"Don't Save\", \"Keep the saved one\" and \"Discard\" no longer delete the autosave: it's set aside, so you can get it back.\n\n**Other**\n- The start screen has an **Open…** button.\n- Skins: the factory ones are **XUXU** and **TROOPER3**; your own skins have a visible ✕ to delete them.\n- The empty channel column on the left hides when no track is selected."
 }
