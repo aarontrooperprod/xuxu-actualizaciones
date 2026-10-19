@@ -8,43 +8,28 @@ Get the one for your computer. You install it once and it updates itself from th
 
 ### Windows
 
-**[Download XUXU 0.3.16 for Windows](https://github.com/aarontrooperprod/xuxu-actualizaciones/raw/main/XUXU.zip)** (Windows 10 and 11, 64-bit, 4.5 MB)
+**[Download XUXU 0.3.17 for Windows](https://github.com/aarontrooperprod/xuxu-actualizaciones/raw/main/XUXU.zip)** (Windows 10 and 11, 64-bit, 4.5 MB)
 
 1. Unzip it into a folder of yours (for example `Documents\XUXU`), not in Program Files.
 2. Open `XUXU.exe`. If Windows says "Windows protected your PC", click **More info** and then **Run anyway**.
 3. From then on XUXU updates itself: when you open it, it tells you if there's a new version and asks. There's also **Options → Check for Updates…**.
 
-## What's new in 0.3.16
+## What's new in 0.3.17
 
-## XUXU 0.3.16 🎛️
-**Looks and feels like Ableton Live 12**
-- New factory skin **Immaterial** (Live 12's), with Live's Grid Line Intensity, Brightness, Color Intensity and Color Hue. Imported Live themes now look like they do in Live.
-- Text, buttons and the ruler at Live's size, a black title bar, thicker track dividers and sharp grid lines.
-- Selected clips and time fill with the selection color. Dragging a clip shows a see-through copy where it will land.
-- The loop has its own lane, with Live's brace.
+## XUXU 0.3.17 ✂️
+**Time commands, like Ableton Live**
+- **Ctrl+V with a time selection** (drag in the arrangement or click the loop) now pastes right into the selection.
+- **Cut Time** (Ctrl+Shift+X), **Copy Time** (Ctrl+Shift+C), **Paste Time** (Ctrl+Shift+V) and **Duplicate Time** (Ctrl+Shift+D) work on every track at once: clips, automation, chords and sections move together and the song gets longer or shorter.
+- **Delete Time** (Ctrl+Shift+Delete) removes a section and closes the gap. **Insert Silence** (Ctrl+Alt+I, or Ctrl+I with Ableton shortcuts) adds empty time the length of your selection.
+- All of them are in the Edit menu, and each one undoes with a single Ctrl+Z.
 
-**Arrangement**
-- Under the Master: **H** and **W** fit all tracks to the height or width, waveform zoom (double-click = 1.00x), and the preview and metronome volumes.
-- Each track has its own height: drag its bottom edge, or Alt + wheel. **U** folds the selected tracks, Alt+U all of them.
-- ← → move the selected clips.
-- The grid size (1/16, 1/8T…) shows at the bottom right.
+**Computer MIDI keyboard**
+- With the computer keyboard on (M), single letters only play notes, whatever shortcut preset you use. Hold Shift for the letter's shortcut, like in Live.
 
-**Piano roll**
-- New **MPE** tab: draw a pitch curve on each note. Turn on MPE in your synth (in Vital: Advanced → MPE Enabled).
-
-**Mixer**
-- The Master stays on the left.
-- The mouse wheel scrolls sideways; hold the middle button to grab and drag.
-
-**Shortcuts**
-- Options → Preferences → Keyboard & Actions: **Shortcut Preset** (XUXU, Ableton, FL Studio, Logic Pro) and **My Shortcuts**: any key for any action, or several actions in a row.
-
-**More**
-- **Listening Volume** in the top bar: turns down only what you hear, not your mix or exports.
-- Preferences look like Live's Settings and can be moved by their title bar.
-- New colors for faders in Appearance → Colors.
-- The DeEsser's compressor now cuts and releases like the Waves DeEsser.
-- New projects start with 2 audio and 2 instrument tracks.
+**Fixes**
+- A clip that starts on a bar line no longer shows a thin line one pixel inside it when the grid is set above 100%.
+- The floating piano roll no longer leaves a frame behind when you drag it.
+- The factory Immaterial skin got Aaron's latest tweaks.
 
 ---
 
@@ -54,7 +39,7 @@ El DAW de Aaron, para grabar. Baja el de tu computadora: se instala una vez y de
 
 ### Windows
 
-**[Bajar XUXU 0.3.16 para Windows](https://github.com/aarontrooperprod/xuxu-actualizaciones/raw/main/XUXU.zip)** (Windows 10 y 11 de 64 bits, 4.5 MB)
+**[Bajar XUXU 0.3.17 para Windows](https://github.com/aarontrooperprod/xuxu-actualizaciones/raw/main/XUXU.zip)** (Windows 10 y 11 de 64 bits, 4.5 MB)
 
 1. Descomprime el zip en una carpeta tuya (por ejemplo `Documentos\XUXU`), no en Archivos de programa.
 2. Abre `XUXU.exe`. Si Windows dice «Windows protegió tu PC», picas **Más información** y luego **Ejecutar de todas formas**.
