@@ -1,9 +1,9 @@
 {
-  "version": "0.3.21",
-  "archivo": "versiones/XUXU-0.3.21.exe",
-  "sha256": "346d6fa4abc58933845fc68d7feb4b4622ed25f43dc7b411a269d1797d0bb340",
-  "firma": "5b360c299c068bfbd9e2ec3ef6db9d2df386ec2b08a8cfc98d02d73bdacc8513ce48f6ecd5547a259e0ab6f2cc36987bb3cc439c2e28414c1909c58935cf31c02195a36f7baaf5096c3e067703e37a87e689fcfbfe1bdcc2d6d746bd695c113bcccb4f00cb6e79a82bceee63f36d6946fa26e61517522f29f47f2a2c8aea8ec48bfeae6f687378ffe0033655fd1cd68b890ec9f912f170c03189fb3e50e0831edb3f1b226111a0074b14af9e6a86145f0f62612184e9b8099f597fc815ef557a7c1f1ef8cddd9e131304cf18eb704b5e16f8f2f532cb7ae55ad034cfb1c0011d98da3a4d274ea2d10d89e2b0a2c1f21f5cb021b4bba8b2f2fa185899cf5e13f2",
-  "tam": 11642368,
+  "version": "0.3.22",
+  "archivo": "versiones/XUXU-0.3.22.exe",
+  "sha256": "e46f351a878f75e608db899ea0c94fdebb461aa6377f55b2138ac951322710f4",
+  "firma": "2ca867b8933762a9d308bb5bf3efea8b1afc77b1016ad52dfd83710f4c30152c00d06389e9747454ac54daf5a83f4ed6d2f8a956b3965a22c232bb2407a7ed56057facfc3155f7ce852fcf1b7bd768790881346251959f6b45b8f9f6101c8e55ee635caef0fe174d6a3bb5cf859eaf06555528c3eb1cc622e2f209fd1acb0361e912ba50535a5d39663ed8e955176d652f1fa877e479f979fb8b9484cf0d2c1ec625073bdcefe47b8eece08e87c8a1b1faa31d645e628629c02316c0e37e6f76600283d9f8aa3e99889de804fc289ff085f55d52eb667419139ce073413bb8149535bb3b00e66e05d2de1c51050e7395ee80a3b1beba72da9d63d9d7136f75f5",
+  "tam": 11684864,
   "fecha": "2026-10-21",
-  "notas": "## XUXU 0.3.21 🎙️\n**VocAlign works with ARA, like in Pro Tools and Cubase**\n- Put VocAlign on the guide track **and** on the track you want to align.\n- Open either one, click the guide clip (by its name bar) and hit **Capture** under GUIDE.\n- Click the clip to align and hit **Capture** under DUB. It aligns right away, no need to press play.\n- You can also drag a time selection instead of clicking a clip.\n- What you captured is saved with the project and comes back when you open it.\n- Melodyne and Vovious work just like before."
+  "notas": "## XUXU 0.3.22 🔀\n**Plug-in sidechain, like in Live and Logic**\n- Compressors, gates and anything with a sidechain input can now listen to another track.\n- Open the plug-in: the **Sidechain** bar on top picks the track and where it listens (Pre FX, Post FX or Post Mixer).\n- Right-click the plug-in in Inserts → **Sidechain…** for Gain, Mix and Mute too.\n- A little arrow on the insert tells you it has a sidechain.\n- Every change undoes with Ctrl+Z and is saved with the project."
 }
