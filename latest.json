@@ -1,9 +1,9 @@
 {
-  "version": "0.3.22",
-  "archivo": "versiones/XUXU-0.3.22.exe",
-  "sha256": "e46f351a878f75e608db899ea0c94fdebb461aa6377f55b2138ac951322710f4",
-  "firma": "2ca867b8933762a9d308bb5bf3efea8b1afc77b1016ad52dfd83710f4c30152c00d06389e9747454ac54daf5a83f4ed6d2f8a956b3965a22c232bb2407a7ed56057facfc3155f7ce852fcf1b7bd768790881346251959f6b45b8f9f6101c8e55ee635caef0fe174d6a3bb5cf859eaf06555528c3eb1cc622e2f209fd1acb0361e912ba50535a5d39663ed8e955176d652f1fa877e479f979fb8b9484cf0d2c1ec625073bdcefe47b8eece08e87c8a1b1faa31d645e628629c02316c0e37e6f76600283d9f8aa3e99889de804fc289ff085f55d52eb667419139ce073413bb8149535bb3b00e66e05d2de1c51050e7395ee80a3b1beba72da9d63d9d7136f75f5",
-  "tam": 11684864,
+  "version": "0.3.23",
+  "archivo": "versiones/XUXU-0.3.23.exe",
+  "sha256": "bd804e148e838f29c7c345a9d62327b34065b086e5ff6b1d136027404df9da9e",
+  "firma": "43befd80698b2bd79dc2169e79e2fce0d215c343d2d8ed78215e6d67d9d4ff8ef3df830b31bf0f5cb8cb0ae426d1262ea1731362c379e15effd0f6b20662a3441124fc2ed1d3c448cbc49667b60f081c5667e4a9cbfaf44566612c32aa56e1db2f77a71c2ac91becd485fca58a8dba46e6696be38cc339e8a67a5374b3b73d4a2a2e48766f83b728ebc830c2df541506f6b929075bd0479f7659acab8333053e343ce7d0d70bb1f6ca77d77dcc22d4c1df420b177ff58e6586d3abd725d0483320e651bb18b6972408544ebaf3d34b69cb19dc0fa450337d4760f79e08f44bc6f80d130374a320672fc5a4cca77fc5388a3ac75d6b80d4b92e64c3c80c7b76aa",
+  "tam": 11733504,
   "fecha": "2026-10-21",
-  "notas": "## XUXU 0.3.22 🔀\n**Plug-in sidechain, like in Live and Logic**\n- Compressors, gates and anything with a sidechain input can now listen to another track.\n- Open the plug-in: the **Sidechain** bar on top picks the track and where it listens (Pre FX, Post FX or Post Mixer).\n- Right-click the plug-in in Inserts → **Sidechain…** for Gain, Mix and Mute too.\n- A little arrow on the insert tells you it has a sidechain.\n- Every change undoes with Ctrl+Z and is saved with the project."
+  "notas": "## XUXU 0.3.23 ⏱️\n**Tempo travels with your files, like Logic**\n- Exported WAV and MP3 now carry the project tempo (**Include Tempo** in Export, on by default).\n- Drop a MIDI or a long stem with another tempo and XUXU asks **\"Use 128 BPM?\"**. Say yes and the project takes it, so nothing gets stretched. One Ctrl+Z undoes it all.\n- Change your answer later in Preferences → Audio → Import.\n\n**Importing audio is way faster**\n- A 3-minute song at another sample rate went from ~8 s to under half a second.\n- Dropping files from Explorer or Splice is faster too.\n\n**Sidechain on XUXU's own plug-ins**\n- The **Compressor** and the **DeEsser** can listen to another track, with the Sidechain bar on top of their window.\n- DeEsser: the other track decides where the S's are, this one gets cleaned (like FabFilter Pro-DS).\n\n**Instrument tracks**\n- The first insert slot is only for the instrument, in the track's color. Effects go below it.\n\n**Also**\n- The playhead no longer shakes while it follows the song.\n- MicroMeters: square corners, no gaps or lines between meters."
 }
