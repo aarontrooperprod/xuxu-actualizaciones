@@ -1,9 +1,9 @@
 {
-  "version": "0.3.27",
-  "archivo": "versiones/XUXU-0.3.27.exe",
-  "sha256": "87c9ee06e547f04207e8eeb84bc5b6cbf06a22471a75d384f0c2140455643b85",
-  "firma": "8046139e7b6cc9eddf3b163e1c1337ff0470ddc3b46b2c1cb042fa54641f01fc91ebea77f5287052c7d12a1cd4cbf4be116bd7dddd75181e58cb910f9554b3e3aa2f955ee53cfa457ecabfdfc06eabf63cc2af4c2ec561ba04f90e1a7db7e0342ebc598fabb54eaa156243d65ba2891a4277549fba4d6754943af6ac6f1368c4eb46cff953a90026b9fd281fdd525183bb5ed98686e4eb95e782dd4fae6c0eb2589074c7c89e99a253b003ce10b58af4d1ab1c4e25b39edd277558c07cebdce68bffe3f0981e6208191ec0d1c5dacbabe6f0f4b6213d96ccafa64c7b41eac9baf52129d7009505d2e11996ed03da65fb5fa93143d33eba7f688c6426557ee87d",
-  "tam": 11941888,
+  "version": "0.3.28",
+  "archivo": "versiones/XUXU-0.3.28.exe",
+  "sha256": "2e5268bdf24e92282635a79b9cbad565be0ba9ae5988ded42e3c4252ee0ac50e",
+  "firma": "976d830bd97be2b7a5025f4c00ab949ef949987194e8bfc09efee02b896b57e010f89e65a1c1382fdb24ca95ddf023d78b5ec305e41b7c8974c83782a76b0ff4d02dc99a2b56447a738b68572b9a32e8e311ef57b179c5d5bb25d051dd57b83ec92af1c79c2994b77054bbecea7d4c8f77ff6ccd3998c0d3cae5ac1ccf428cc13c31c78ea459e9203b65c440f0f4765f5ac107a3756a2b631445fb00322242fa31782d44ac6245f0021ed5f4610c72f4051e02cca391b2b332b984627fd241c8237f66c1a0d202449f064624a77e648500eea40e2eb380a3af96357587fa16fa1d31b9380277666b84dbccb41ce678bae432b85e3635fc22e4acb7b7b1a31b3e",
+  "tam": 11966976,
   "fecha": "2026-10-22",
-  "notas": "## XUXU 0.3.27 📁\n**A real project file**\n- A project is now a folder with **Name.xuxu** inside, with the XUXU logo. **Double-click it** and XUXU opens right into that project (if XUXU is already open, it opens there).\n- **Save As** asks for the name and creates its folder. **Open** picks the .xuxu file.\n- Older projects still open. When you save them, they get their .xuxu file.\n\n**Much smaller projects**\n- Heavy plug-in data (VocAlign, Melodyne, Vovious…) is now saved apart, compressed, and only once. A project with lots of VocAlign went from 427 MB to under 1 MB, plus 41 MB of plug-in data.\n- Backups no longer copy hundreds of MB on every save. The first save keeps one last big backup, just in case.\n- Open your project and save it once to shrink it."
+  "notas": "## XUXU 0.3.28 🐱\n**Project folders with their own icon**\n- Your project folder now shows the yellow XUXU folder with the cat's face, like Ableton does with its project folders. The .xuxu file inside keeps the full cat.\n- Older projects get it the next time you open them."
 }
