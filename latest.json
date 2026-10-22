@@ -1,9 +1,9 @@
 {
-  "version": "0.3.24",
-  "archivo": "versiones/XUXU-0.3.24.exe",
-  "sha256": "687b5bc79ab072a5d021e1347aa23c93d85930c64b0d486f3d6d6b51ab534733",
-  "firma": "55d8c83708304e317a4a5830f4a9bdd383a35fb8fce0f114333558d5e1616dc60fcfa0a13297845373f1d559187ff199fdb0d0d1a2c61e28234f0155ef4bbbbc065f4a2a167d93ee7ba3e130a8c88147b012a21bac34af7da42f0b5e4022df7a288fb0f6c1b2701745c015d21b6f007133ed4ec7553fa8287a81449d4f939bbf0e69a68154aaeaeb6f44bb754f981b26d9c46d92e6d287247800dc282b5a924600383b3bba44a366f30376405fc9305826155ddc31723fe43d9dd2df8a7185e1618378b191d15ea3937131e2e56f936db8f0824c07d7619f5ac00693863380238fbf4a622a378818ba8ff12d91c99b5f04bf4889321a60ae7bf7bb063e317833",
-  "tam": 11844096,
+  "version": "0.3.25",
+  "archivo": "versiones/XUXU-0.3.25.exe",
+  "sha256": "9d779ca8ed628a1d3089e0d7378157667d35a455b77f1b58f7e264e7c29b4cd4",
+  "firma": "1d36a560f599dc807fb5123192930e0cf139209c852cbf2621640825203616c29285fcd8212b7fd4e981c6adb2447c87496ac1cfd01d0fdd3f9d3706844adbfce2f8521ca0d99d7c466443a3565c5c46ea48c82a884231e718f3a32bc826fe46453e46d5955200a16aa1bd70489dc455edafa0115f3ede5b72c1190c26ee1a6a21c922d4b51181b16818bfda5bc739ff367fc6a868694bb7e8598f39afdc2c2dded2074e2d9651ee73cc317fc541f952880082a9362c3e8541fa5d0eb22add93ba6907e712a45462190144703c0535e564baf01c7ff03b645679cad8c116a8be4342539cd8222ea45b80844054a3c9872b05d78ff23f83f629813da2f4fae835",
+  "tam": 11848704,
   "fecha": "2026-10-22",
-  "notas": "## XUXU 0.3.24 🚀\n**Saving no longer freezes**\n- Big projects with Vovious, Melodyne or VocAlign used to go blank for a second on every save, and on every autosave too (once a minute). Now it's instant.\n- Autosave waits until you stop playing.\n- If XUXU closes unexpectedly, the next time you open it **Recover** comes first, and it tells you which plug-in did it. You can **Recover without** that plug-in (it stays off, with its settings kept).\n\n**Uses all your CPU cores**\n- Tracks are processed on several cores at once, like Live and Logic. Heavy plug-in sessions run up to 10× lighter. It sounds exactly the same.\n- Preferences → Audio → CPU: **Multicore Support** and **Processing Threads**.\n\n**Strip Silence, like Pro Tools**\n- Edit → **Strip Silence…** (Ctrl+Shift+E). What will be removed shows striped on the clips while you move the controls.\n- Works on Selected clips, a Track, a Tag (only Vocals, for example) or All. **Auto** finds the threshold for each clip.\n- **Listen** plays the result before you cut. One Ctrl+Z undoes it all.\n\n**Faders and pans**\n- A click no longer jumps the fader or pan: drag from where it is.\n- Click it and type an exact value (−6, 30L…), Enter to set it.\n\n**Also**\n- Appearance → Zones & Tracks → Waveform: **Track · White · Black · Custom**.\n- Loop lines stay in place when you zoom fast.\n- The update popup shows the version and a **What's new** arrow."
+  "notas": "## XUXU 0.3.25 🐱\n**Update window**\n- The update popup now has the XUXU cat on the left.\n- **What's new** opens with each section and its bullet points spaced out, with a thin dark scrollbar."
 }
