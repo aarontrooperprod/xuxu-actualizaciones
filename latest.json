@@ -1,9 +1,9 @@
 {
-  "version": "0.3.28",
-  "archivo": "versiones/XUXU-0.3.28.exe",
-  "sha256": "2e5268bdf24e92282635a79b9cbad565be0ba9ae5988ded42e3c4252ee0ac50e",
-  "firma": "976d830bd97be2b7a5025f4c00ab949ef949987194e8bfc09efee02b896b57e010f89e65a1c1382fdb24ca95ddf023d78b5ec305e41b7c8974c83782a76b0ff4d02dc99a2b56447a738b68572b9a32e8e311ef57b179c5d5bb25d051dd57b83ec92af1c79c2994b77054bbecea7d4c8f77ff6ccd3998c0d3cae5ac1ccf428cc13c31c78ea459e9203b65c440f0f4765f5ac107a3756a2b631445fb00322242fa31782d44ac6245f0021ed5f4610c72f4051e02cca391b2b332b984627fd241c8237f66c1a0d202449f064624a77e648500eea40e2eb380a3af96357587fa16fa1d31b9380277666b84dbccb41ce678bae432b85e3635fc22e4acb7b7b1a31b3e",
-  "tam": 11966976,
+  "version": "0.3.29",
+  "archivo": "versiones/XUXU-0.3.29.exe",
+  "sha256": "afc7acab97e74b346225d1c5be0b4919e567daae34cb4a7647edc4073c507ce5",
+  "firma": "851c01f45cd72279b71f883f18dd01ad00515e324ea3941b71f0eac529fe78595ac9477b7f47b0d04f6befae9a43ffebd68d23beb33a86549a5ef4dd32815481697fc66c6fdaea87e411cf30f2710f116879d00eca42809c655c52991389ba43ce561a25072334fae9c7d10da1000081546f2550ca5388c122c006f2c07c96d1fc22f7c14cc9451cf80594234069ee9f8eb6d33bcfc7ff5d2d732abbe8efd0c7d09c62b78f56c5dafa38797bf5cce7fcf805f7cf1bc6aa039042029bb15eaa02bbc88388e1eaaef9990178efea037421ccb02e2894072e6eb256d198986f5b77715dd68edb80ef9ac358a6bd18196b19ef8a004e135bb1e3474b4de507ace87e",
+  "tam": 11980800,
   "fecha": "2026-10-22",
-  "notas": "## XUXU 0.3.28 🐱\n**Project folders with their own icon**\n- Your project folder now shows the yellow XUXU folder with the cat's face, like Ableton does with its project folders. The .xuxu file inside keeps the full cat.\n- Older projects get it the next time you open them."
+  "notas": "## XUXU 0.3.29 🛠️\n**Fixes from Gabriel's list**\n- The Compressor and EQ windows no longer change size when a value gets longer or you pick another filter type.\n- No more little box around the pan or fader after you click it.\n- Buses no longer jump up and down while you drag audio onto a track.\n- Clip edges look the same inside a time selection.\n- A bus shows up only once in a track's sends.\n- Renaming a bus track renames the bus (its sends and outputs follow).\n- Plug-in slots are evenly spaced.\n- Menus always fit on screen (the Master's menus in automation mode used to go off the bottom).\n- Scrolling stays smooth all the way to the top and bottom of the arrangement.\n- ↑/↓ start from the track you selected with the mouse, and the view follows the track.\n- Closing a plug-in window takes you back to XUXU, not to another program.\n\n**Smaller projects**\n- Imported audio is now saved as it came: WAV, AIFF, FLAC, MP3 and OGG keep their own size. An 8 MB MP3 used to become a 70 MB file inside the project; now it stays 8 MB.\n- Old Backup copies from before 0.3.27 are big. They go away on their own after you save 10 more times.\n\n**Smoother zoom**\n- Ctrl+wheel zoom is much smoother: about 60 frames per second instead of 40 on a big project, and it looks exactly the same."
 }
