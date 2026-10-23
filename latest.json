@@ -1,9 +1,9 @@
 {
-  "version": "0.3.31",
-  "archivo": "versiones/XUXU-0.3.31.exe",
-  "sha256": "fa45a94d3163d2c71ddb1e240a76737d95444b16025fde26eb895a20ace55ca1",
-  "firma": "bd8f999d20b7716e156d894ae4cf72ec5f9903065096d1bd742749819b2eb43d65d40740887c85cbce64f48075f0f22647010eedf630c0fa0ecaed6fc7b759ec9e1fe9ce4ccbc51c70368163298be1535cec7f4628d3fd1950973586de4f9c64c84584fc638d5f09cbaeb424d478d1f7ce8022dd0a0d09573fb9221e7e49af89cb832e9d979770e3b09b3ad7c44955ab4ce90c90341ac045c4420ea17d2650845ee5e874dbe269f12fa5bd13872dd6a976237088c2e80cb6584c615c35cb9d0b2762dcffa672896bcf56c5cbe7a46c8c9d0740add99e980e342d10734eee980aa47712260ef9dcfdc4666ccba8a9c68b69690fcace351fc1c80436706f7d855",
-  "tam": 12023808,
+  "version": "0.3.32",
+  "archivo": "versiones/XUXU-0.3.32.exe",
+  "sha256": "36448f54d4f7ed67f296ddc0cfa920f2534461bef727ef843092646a6c57d5d0",
+  "firma": "65eade338bb9f37e5964542c3f5083fea645d9514bde48584bef0583bc2e4aebb9bc1a13e17a7e8b06a9c315212fe7060a1e30c73ef1cb3f37ac1e339a28325594f254253e1aacff17b451f8f8c5c343709af7ac3bde9510ea942495e1db18a29eb8f42ca554c2c08b4fd137f7df1fe957329185b2486c803657ed50b0cc11d59be69c9b7e274e960f5d00172ce00c8bab3dd93c68678368ddadcaa56aa4b5f901f5ab969bb69532358195bb41f91a6192166890a63d005ce9f7ce75428868a4677a1ed8b8a76cd5333cd04800c3702cb5a9c316662790eaaf819309e5e7d867f494a1ba9202037fd88cc209401540aa91b1f120a143659f757ec669e2794457",
+  "tam": 12033536,
   "fecha": "2026-10-22",
-  "notas": "## XUXU 0.3.31 🎛️\n**Groups in the mixer, like Live**\n- Each group level now moves its tracks' headers down a step, with the group's color running above everything inside it. Groups inside groups are easy to read.\n\n**A tighter mixer**\n- Monitor, arm, M and S share one row, and peak and volume sit side by side.\n- No more empty gap above the pan: that space goes to the fader.\n- The latency bar only shows when a track has latency.\n- Empty insert slots only fill the space that's there: a scrollbar only shows on a track that has more plug-ins than fit.\n- Group and Master pan are now level with the tracks'.\n- Sends show just the bus letter (A, B, C…). The menu shows the letter and the bus name, like \"A Reverb\".\n\n**Buses**\n- New buses start without a tag (they were tagged SFX).\n- A bus can no longer be sent to itself, or to a bus that already feeds it.\n\n**Smaller tracks**\n- Tracks can go a bit smaller, and at the smallest height a clip is just its name bar, like in Live."
+  "notas": "## XUXU 0.3.32 🎛️\n**Mixer**\n- Inserts and Sends now line up on every strip, always. Each has its own box, and only the one with more than fits scrolls.\n- Sends fold with their arrow, like In/Out and Inserts.\n- Once a track sends to a bus, that bus shows on every track at −∞, like Live's return tracks. Drag its level to start the send (double-click = 0 dB).\n\n**Library**\n- It remembers its width. The first time, it opens just wide enough.\n- An × in the search box clears it."
 }
